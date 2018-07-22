@@ -1,0 +1,12 @@
+name: LuckyWars
+main: Dushy\Main\LuckyWars
+author: xEchtesPhantom
+version: 2.1.0
+api: 4.0.0
+commands:
+    lw:
+        usage: /lw <addarena>
+        description: LuckyWars-Commands
+    lwstart:
+        usage: /lwstart
+        description: LuckyWars-ForceStart
